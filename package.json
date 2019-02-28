@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-js-playlist.git"
+    "url": "git+https://github.com/SELAULE/To-do-List.git"
   },
   "author": "nselaule",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-js-playlist/issues"
+    "url": "https://github.com/SELAULE/To-do-List/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/node-js-playlist#readme",
+  "homepage": "https://github.com/SELAULE/To-do-List#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
